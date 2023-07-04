@@ -1,5 +1,5 @@
 ## HTML | Activity #5 (Guided): Nested Lists
-In this activity, we will create a single web page with the following content:
+In this activity, we will create an **Topic Outline Page** with the following content:
 
 ![final-output](assets/html-05--01-final-output.jpg)
 
